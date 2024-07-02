@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_upgraded">SD Maid SE Pro</string>
+    <string name="app_name_upgrade_postfix">პრო</string>
+    <string name="upgrade_feature_requires_pro">მოითხოვს SD Maid SE Pro</string>
+    <string name="upgrades_dashcard_title">გაარემონტეთ SD Maid</string>
+    <string name="upgrades_dashcard_body">SD Maid Pro გთავაზობთ უკეთეს შედეგებს, მეტ ფუნქციებს და ვარიანტებს ძლიერი მომხმარებლებისთვის.</string>
+    <string name="upgrades_dashcard_upgrade_action">გარემონტება</string>
+    <string name="upgrades_no_purchases_found_check_account">შესყიდვები ვერ მოიძებნა. სწორ ანგარიშს იყენებთ?</string>
+    <string name="upgrade_screen_title">მიიღეთ SD Maid SE Pro</string>
+    <string name="upgrade_screen_benefits_title">უპირატესობები</string>
+    <string name="upgrade_screen_benefits_body">• აპლიკაციის გაწმენდა 💯\n• დაგეგმილი ოპერაციები ⏰\n• დამატებითი ვარიანტები ყველა ხელსაწყოსთვის ⚙️\n• თქვენი წაშლის წესები ✍️\n• მოტივირებული დეველოპერი 🧙\nდა სხვა…</string>
+    <string name="upgrade_screen_how_title">ვარიანტები</string>
+    <string name="upgrade_screen_subscription_action">გამოწერა</string>
+    <string name="upgrade_screen_subscription_action_hint">გამოწერა ღირს %s წელიწადში.</string>
+    <string name="upgrade_screen_iap_action">ერთჯერადი შეძენა</string>
+    <string name="upgrade_screen_iap_action_hint">ერთჯერადი შეძენა ღირს %s.</string>
+    <string name="upgrade_screen_thanks_toast">Საუკეთესო ხარ! ❤️</string>
+    <string name="nudge_betagoodbye_negative_action">გააგრძელე ტესტირება</string>
+</resources>

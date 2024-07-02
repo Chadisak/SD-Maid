@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_upgraded">SD Maid SE Pro</string>
+    <string name="app_name_upgrade_postfix">Pro</string>
+    <string name="upgrade_feature_requires_pro">SD Maid SE Pro on vajalik</string>
+    <string name="upgrades_dashcard_title">SD Maidi täiendamine</string>
+    <string name="upgrades_dashcard_body">SD Maid Pro pakub paremaid tulemusi, rohkem võimalusi ja valikuid edasijõudnutele.</string>
+    <string name="upgrades_dashcard_upgrade_action">Täienda</string>
+    <string name="upgrades_gplay_unavailable_error_title">Google Play pole saadaval</string>
+    <string name="upgrades_gplay_unavailable_error_description">SD Maid ei suuda ühenduda Google Playga. Kas Google Play on paigaldatud ja uuendatud? Olete Google\'i kontole sisse logitud? Üritage tühjendada Google Play rakenduse vahemälu ja taaskäivitada oma seadet.</string>
+    <string name="upgrades_no_purchases_found_check_account">Oste ei leitud. Kas kasutate õiget kontot?</string>
+    <string name="upgrade_screen_title">Hankige SD Maid SE Pro</string>
+    <string name="upgrade_screen_preamble">SD Maidis pole reklaame ja see ei müü kasutajaandmeid. Minu tööd toetate teie ❤️.</string>
+    <string name="upgrade_screen_benefits_title">Eelised</string>
+    <string name="upgrade_screen_benefits_body">• rakenduse puhastamine 💯\n• ajastatud toimingud ⏰\n• kõikide vahendite lisavalikud ⚙️\n• enda koostatud kustutamisreeglid ✍️\n• motiveeritud arendaja 🧙\njpm…</string>
+    <string name="upgrade_screen_how_title">Valikud</string>
+    <string name="upgrade_screen_how_body">Saate valida ühekordse ostu ja odavama aastatellimuse vahel.\nTellimus algab 14 päevase prooviperioodiga, pärast seda võetakse raha korra aastas. Prooviperioodi ja tellimust saab tühistada igal ajal.\nSamad võimalused, erineb vaid hinnastamismudel.</string>
+    <string name="upgrade_screen_subscription_trial_action">Alustage tasuta 14 päevast prooviperioodi</string>
+    <string name="upgrade_screen_subscription_action">Telli</string>
+    <string name="upgrade_screen_subscription_action_hint">Tellimus maksab %s aastas.</string>
+    <string name="upgrade_screen_iap_action">Ühekordne ost</string>
+    <string name="upgrade_screen_iap_action_hint">Ühekordne ost maksab %s.</string>
+    <string name="upgrade_screen_thanks_toast">Olete parim! ❤️</string>
+    <string name="upgrade_screen_restore_purchase_action">Taasta ost</string>
+    <string name="upgrade_screen_restore_purchase_message">Uuendus kehtib kõigis seda Google`i kontot kasutavates seadmetes.</string>
+    <string name="upgrade_screen_restore_troubleshooting_msg">Tundmatute uuenduste lahendamise nõuanded:</string>
+    <string name="upgrade_screen_restore_sync_patience_hint">Play poe ajakohastamine võib võtta aega. Ürita taaskäivitada, tühjendada Google\'i poe vahemälu või lihtsalt oota.</string>
+    <string name="upgrade_screen_restore_multiaccount_hint">Google\'i pood ei pruugi mitme kontoga toime tulla. Logi teistelt kontodelt välja või paigalda Google\'i poe veebilehe kaudu, mis tuvastab seose kindla kontoga.</string>
+    <string name="nudge_betagoodbye_title">Versioon 1.0 🥳</string>
+    <string name="nudge_betagoodbye_body">Aitäh! Saavutasime seda koos. Arendamine loomulikult jätkub, ent nüüd saad Google Plays paigaldada SD Maidi ilma katsetamise nõudeta.</string>
+    <string name="nudge_betagoodbye_hint">Saad rakendust edasi kasutada samaviisi, sest see on juba ametlik versioon. Lihtsalt loobu katsetamisest ja edaspidi saad vaid valmis ametlikke uuendusi.</string>
+    <string name="nudge_betagoodbye_reinstall_note">Vahetamiseks loobuge katsetamisest ja oodake järgmist uuendust. Rakendust pole vaja paigaldada uuesti. Tavaline uuendamine jätkub pärast sellest eelvaatest uuema tavalise versiooni avaldamist.</string>
+    <string name="nudge_betagoodbye_positive_action">Loobu katsetamisest</string>
+    <string name="nudge_betagoodbye_negative_action">Jätka katsetamist</string>
+</resources>
