@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_upgraded">SD Maid SE Pro</string>
+    <string name="app_name_upgrade_postfix">Pro</string>
+    <string name="upgrade_feature_requires_pro">Yêu cầu SD Maid SE Pro</string>
+    <string name="upgrades_dashcard_title">Nâng cấp SD Maid</string>
+    <string name="upgrades_dashcard_body">SD Maid Pro cung cấp kết quả tốt hơn, nhiều tính năng và tùy chọn hơn cho người dùng thành thạo.</string>
+    <string name="upgrades_dashcard_upgrade_action">Nâng cấp</string>
+    <string name="upgrades_gplay_unavailable_error_title">Google Play không khả dụng</string>
+    <string name="upgrades_gplay_unavailable_error_description">SD Maid không thể kết nối với Google Play. Google Play đã được cài đặt và cập nhật chưa? Tài khoản Google của bạn đã đăng nhập chưa? Hãy thử xóa bộ nhớ đệm của ứng dụng Google Play và khởi động lại thiết bị của bạn.</string>
+    <string name="upgrades_no_purchases_found_check_account">Không tìm thấy giao dịch nào. Bạn có đang sử dụng đúng tài khoản không?</string>
+    <string name="upgrade_screen_title">Nhận SD Maid SE Pro</string>
+    <string name="upgrade_screen_preamble">SD Maid không có quảng cáo và không bán dữ liệu người dùng. Công việc của tôi được tài trợ bởi bạn ❤️.</string>
+    <string name="upgrade_screen_benefits_title">Lợi thế</string>
+    <string name="upgrade_screen_benefits_body">• Dọn dẹp ứng dụng 💯\n• Hoạt động theo lịch trình ⏰\n• Tùy chọn bổ sung cho tất cả các công cụ ⚙️\n• Quy tắc xóa của riêng bạn ✍️\n• Một nhà phát triển năng động 🧙\nvà hơn thế nữa…</string>
+    <string name="upgrade_screen_how_title">Tùy chọn</string>
+    <string name="upgrade_screen_how_body">Bạn có thể chọn giữa mua một lần và đăng ký hàng năm rẻ hơn.\nĐăng ký bắt đầu bằng bản dùng thử miễn phí 14 ngày, sau đó bạn sẽ bị tính phí một lần mỗi năm. Bản dùng thử và đăng ký có thể bị hủy bất kỳ lúc nào.\nTính năng giống nhau, chỉ khác mô hình định giá.</string>
+    <string name="upgrade_screen_subscription_trial_action">Bắt đầu dùng thử 14 ngày miễn phí</string>
+    <string name="upgrade_screen_subscription_action">Đăng ký</string>
+    <string name="upgrade_screen_subscription_action_hint">Chi phí đăng ký %s mỗi năm.</string>
+    <string name="upgrade_screen_iap_action">Thanh toán một lần</string>
+    <string name="upgrade_screen_iap_action_hint">Chi phí mua một lần là %s.</string>
+    <string name="upgrade_screen_thanks_toast">Bạn là nhất! ❤️</string>
+    <string name="upgrade_screen_restore_purchase_action">Khôi phục thanh toán</string>
+    <string name="upgrade_screen_restore_purchase_message">Bản nâng cấp của bạn hợp lệ trên các thiết bị trên cùng một tài khoản Google.</string>
+    <string name="upgrade_screen_restore_troubleshooting_msg">Mẹo khắc phục sự cố cho các bản nâng cấp không được nhận dạng:</string>
+    <string name="upgrade_screen_restore_sync_patience_hint">Đồng bộ hóa Cửa hàng Play có thể mất thời gian. Hãy thử khởi động lại, xóa bộ nhớ đệm của Google Play hoặc chỉ cần đợi.</string>
+    <string name="upgrade_screen_restore_multiaccount_hint">Nhiều tài khoản có thể gây nhầm lẫn cho Google Play. Đăng xuất khỏi các tài khoản khác hoặc cài đặt thông qua trang web Google Play, trang này buộc liên kết với một tài khoản cụ thể.</string>
+    <string name="nudge_betagoodbye_title">Phiên bản 1.0 🥳</string>
+    <string name="nudge_betagoodbye_body">Cảm ơn. Chúng tôi đã làm được điều này cùng nhau. Tất nhiên, quá trình phát triển sẽ tiếp tục nhưng giờ đây bạn có thể cài đặt SD Maid mà không cần chọn tham gia thử nghiệm trên Google Play.</string>
+    <string name="nudge_betagoodbye_hint">Bạn không cần phải cài đặt lại ứng dụng. Đây đã là phiên bản bình thường rồi. Chỉ cần chọn không tham gia thử nghiệm và bạn sẽ chỉ nhận được các bản cập nhật phát hành trong tương lai.</string>
+    <string name="nudge_betagoodbye_reinstall_note">Bạn có thể chuyển đổi mà không cần cài đặt lại ứng dụng bằng cách rời khỏi chương trình thử nghiệm và chờ bản cập nhật phát hành tiếp theo. Có thể cập nhật bình thường khi có phiên bản phát hành mới hơn phiên bản tiền phát hành này.</string>
+    <string name="nudge_betagoodbye_negative_action">Tiếp tục thử nghiệm</string>
+</resources>

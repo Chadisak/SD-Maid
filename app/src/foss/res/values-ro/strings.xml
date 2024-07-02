@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_upgraded">SD Maid SE FOSS</string>
+    <string name="app_name_upgrade_postfix">FOSS</string>
+    <string name="upgrade_feature_requires_pro">Este necesar SD Maid SE Pro</string>
+    <string name="upgrades_dashcard_title">Actualizează SD Maid</string>
+    <string name="upgrades_dashcard_body">Deblochează funcții suplimentare și devino un patron pentru a suporta dezvoltarea continuată!</string>
+    <string name="upgrades_dashcard_upgrade_action">Actualizează</string>
+    <string name="upgrade_screen_title">Îmbunătățește SD Maid</string>
+    <string name="upgrade_screen_preamble">SD Maid nu are reclame și nu vinde datele utilizatorului. Dezvoltarea continuată este numai posibilă făcută de tine.</string>
+    <string name="upgrade_screen_how_title">Cum să ajuți</string>
+    <string name="upgrade_screen_how_body">Deveniți un patron și o dezvoltare a sponsorului! Apăsați butonul de mai jos pentru a activa toate caracteristicile suplimentare și deschideți profilul meu GitHub Sponsors.</string>
+    <string name="upgrade_screen_why_title">Acesta evocă 🪄</string>
+    <string name="upgrade_screen_why_body">• Funcția Curățare Aplicații 💯\n• Operații programate ⏰\n• Opțiuni extra pentru toate opțiunile ⚙️\n• Regulile tale pentru ștergere ✍️\n• Un dezvoltator motivat 🧙\nși multe altele...</string>
+    <string name="upgrade_screen_sponsor_action">Sponsorizează dezvoltarea</string>
+    <string name="upgrade_screen_sponsor_action_hint">O alternativă sunt reclamele, analizele și Google Play🙁</string>
+    <string name="upgrade_screen_thanks_toast">Mulțumesc că îmi suporți această dezvoltare open-source❤️</string>
+    <string name="nudge_betagoodbye_title">Versiunea 1.0 🥳</string>
+    <string name="nudge_betagoodbye_body">Mulțumesc. Am ajuns până aici doar împreună. Dezvoltarea va continua, desigur, dar acum puteți trece la o pistă de lansare.</string>
+    <string name="nudge_betagoodbye_hint">Aceasta este deja o versiune normală. Doar renunțați la testare și veți primi doar actualizare de lansare.</string>
+    <string name="nudge_betagoodbye_reinstall_note">Puteți trece la versiunea normală fără a reinstala aplicația prin ieșirea din programul de testare și așteptarea următoarei actualizări. O actualizare normală este posibilă odată ce există o versiune de lansare mai nouă decât această pre-lansare.</string>
+    <string name="nudge_betagoodbye_positive_action">Comutați la urmărirea lansării</string>
+    <string name="nudge_betagoodbye_negative_action">Continuați să primiți pre-lansări</string>
+</resources>

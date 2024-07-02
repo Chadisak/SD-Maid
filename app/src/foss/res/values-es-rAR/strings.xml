@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_upgraded">SD Maid SE SLCA</string>
+    <string name="app_name_upgrade_postfix">FOSS</string>
+    <string name="upgrade_feature_requires_pro">Requiere SD Maid SE Pro</string>
+    <string name="upgrades_dashcard_title">Actualizar SD Maid</string>
+    <string name="upgrades_dashcard_body">¡Desbloqueá funciones adicionales y hacete patreon para ayudar a continuar el desarrollo!</string>
+    <string name="upgrades_dashcard_upgrade_action">Mejorar</string>
+    <string name="upgrade_screen_title">Mejorar SD Maid</string>
+    <string name="upgrade_screen_preamble">SD Maid no tiene anuncios y no vende datos de usuario. El desarrollo continuo es solo es posible gracias a vos.</string>
+    <string name="upgrade_screen_how_title">Como ayudar</string>
+    <string name="upgrade_screen_how_body">¡Conviértete en patrocinador y patrocina el desarrollo! Toque el botón de abajo para activar todas las funciones adicionales y abrir mi perfil de Patrocinadores de GitHub.</string>
+    <string name="upgrade_screen_why_title">Esto sugiere 🪄</string>
+    <string name="upgrade_screen_why_body">• Funcionalidad de borrado de AppCleaner 💯\n• Operaciones programadas ⏰\n• Opciones extra para todas las herramientas ⚙️\n• Tus propias reglas de borrado ✍️\n• Un desarrollador motivado 🧙\ny más…</string>
+    <string name="upgrade_screen_sponsor_action">Sponsorear el desarrollo</string>
+    <string name="upgrade_screen_sponsor_action_hint">Las alternativas son anuncios, analíticas y Google Play 🙁</string>
+    <string name="upgrade_screen_thanks_toast">Gracias por apoyar el desarrollo de código abierto ❤️</string>
+    <string name="nudge_betagoodbye_title">Versión 1.0 🥳</string>
+    <string name="nudge_betagoodbye_body">Gracias. Juntos hemos llegado hasta aquí. El desarrollo continuará, por supuesto, pero ahora puedes cambiar a una versión final.</string>
+    <string name="nudge_betagoodbye_hint">Esta es ya una versión normal. Simplemente opta por no participar en las pruebas y solo recibirás actualizaciones de nuevas versiones en el futuro.</string>
+    <string name="nudge_betagoodbye_reinstall_note">Puede cambiar sin reinstalar la aplicación dejando el programa de pruebas y esperando la próxima actualización de la versión. Una actualización normal es posible una vez que hay una versión de lanzamiento más reciente que esta pre-versión.</string>
+    <string name="nudge_betagoodbye_positive_action">Cambiar a la versión final</string>
+    <string name="nudge_betagoodbye_negative_action">Seguir recibiendo versiones de pruebas</string>
+</resources>
